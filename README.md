@@ -1,4 +1,4 @@
-# fresh project
+# project using deno and his new front-end framework: fresh
 
 ### Usage
 
